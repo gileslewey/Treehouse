@@ -1,2 +1,2 @@
-# Treehouse Code
+# Treehouse Javascript
  Treehouse Code
